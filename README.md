@@ -1,1 +1,0 @@
-# Kameng_kriti24_astronomy
