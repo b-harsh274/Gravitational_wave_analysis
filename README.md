@@ -48,4 +48,4 @@ To run the analysis, follow these steps:
 
 ## Acknowledgments
 
-This project was part of a competition organized by Techincal Board, IIT Guwahati. The publicly available data from LIGO was used for the analysis.
+This project was part of Kriti 2024, a competition organized by Techincal Board, IIT Guwahati. The publicly available data from LIGO was used for the analysis.
